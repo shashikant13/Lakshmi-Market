@@ -22,7 +22,7 @@ export default function About() {
               </div>
             </div>
           </div>
-          <div className="relative h-96">
+          <div className="relative h-86">
             <img 
               src="https://i.postimg.cc/7hWgHhyB/about.jpg"
               alt="Store front"
