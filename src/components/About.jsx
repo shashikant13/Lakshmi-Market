@@ -24,7 +24,7 @@ export default function About() {
           </div>
           <div className="relative h-96">
             <img 
-              src="https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80"
+              src="https://i.postimg.cc/7hWgHhyB/about.jpg"
               alt="Store front"
               className="rounded-lg shadow-xl object-cover w-full h-full"
             />
